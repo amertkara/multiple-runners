@@ -3,4 +3,4 @@
 ## A POC Command Line Application with Sub-command design ##
 
 1. `./gradlew build` in the root of the repository.
-2. `java -jar build/libs/com.amertkara.multiplerunners-VERSION.jar` to run.`
+2. `java -jar build/libs/com.amertkara.multiplerunners-VERSION.jar` to run.
